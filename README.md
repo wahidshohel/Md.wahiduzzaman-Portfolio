@@ -1,133 +1,96 @@
 # Md. Wahiduzzaman
 
-### Data Analyst | Power BI | SQL | Excel | DAX | Business Intelligence
+### Data Analyst · Power BI · SQL · Excel · DAX
 
 <p align="center">
-  <b>Turning Data Into Actionable Insights</b>
+  <a href="https://wahidshohel.github.io/Md.wahiduzzaman-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/md-wahiduzzaman-83b50042a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/wahidshohel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 🌐 Portfolio
+## Turning Data Into Business Insights
 
-**Live Portfolio:**  
-https://wahidshohel.github.io/Md.wahiduzzaman-Portfolio/
+I am a **Data Analyst** focused on transforming raw data into structured analysis, interactive dashboards, meaningful KPIs, and actionable business insights.
 
----
-
-## 👋 About Me
-
-I am a Data Analyst specializing in **Power BI, SQL, Microsoft Excel, DAX, Power Query, and Business Intelligence**.
-
-I focus on transforming raw datasets into structured analysis, interactive dashboards, meaningful KPIs, and data-driven business insights.
-
-My analytical work covers **sales analytics, customer analysis, HR analytics, revenue performance, KPI reporting, data transformation, and business reporting**.
+My analytical toolkit includes **Power BI, SQL, Microsoft Excel, DAX, Power Query, and Power Pivot**, with practical project experience across **E-Commerce, HR Analytics, Sales, Customer Analysis, and Business Reporting**.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ What I Work With
 
-### Business Intelligence
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- KPI Development
-- Interactive Dashboards
-
-### Data Analysis
-- SQL
-- Microsoft Excel
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Business Reporting
-
-### SQL
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- JOINs
-- Aggregate Functions
-- Subqueries
+| | |
+|---|---|
+| 📊 **Business Intelligence** | Power BI · DAX · Power Query |
+| 🗄️ **Data & SQL** | SQL · MySQL · Data Querying |
+| 📈 **Data Analysis** | Excel · KPI Analysis · Trend Analysis |
+| 🎯 **Visualization** | Interactive Dashboards · Business Reporting |
+| 🧹 **Data Preparation** | Data Cleaning · Transformation · Data Modeling |
 
 ---
 
 # 📊 Featured Projects
 
-## 01. E-Commerce Sales Analysis — Power BI
+### 01 · E-Commerce Sales Analysis
+**Power BI · DAX · Power Query**
 
-Interactive Power BI dashboard developed to analyze large-scale e-commerce sales and customer data.
+An interactive sales analytics dashboard built to evaluate customer activity, revenue performance, sales trends, and category performance.
 
-### Key Metrics
+**40K Customers** · **250K Orders** · **312K Units** · **5.93B Revenue**
 
-| Metric | Value |
-|---|---:|
-| Customers | 40K |
-| Orders | 250K |
-| Units Sold | 312K |
-| Total Revenue | 5.93B |
-| Average Order Value | 23.72K |
-| Sales Growth | 4.14% |
+**Key Insights**
+- **0.71B** — Peak revenue in June
+- **83K units** — Electronics category performance
+- **23.72K** — Average Order Value
+- **4.14%** — Sales Growth
 
-### Key Insights
-
-- June was the peak revenue month with **0.71B** revenue.
-- Electronics was the leading category with **83K units sold**.
-- Developed DAX-driven KPIs for sales performance and growth analysis.
-- Analyzed customer activity, category performance, monthly revenue trends, and sales dynamics.
-
-**Tools:** Power BI • DAX • Power Query
-
-🔗 **Repository:**  
-https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi
+🔗 **[View Repository →](https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi)**
 
 ---
 
-## 02. HR Analytics Dashboard — Power BI
+### 02 · HR Analytics Dashboard
+**Power BI · DAX · Power Query**
 
-Interactive HR analytics dashboard focused on workforce structure, employee performance, attrition, salary, and job-related analysis.
+An interactive HR dashboard focused on workforce structure, employee attrition, compensation, performance, job satisfaction, overtime, and tenure.
 
-### Key Metrics
+**1,470 Employees** · **237 Attrition Cases** · **9 Job Roles**
 
-| Metric | Value |
-|---|---:|
-| Employees | 1,470 |
-| Attrition Cases | 237 |
-| Departments | 3 |
-| Job Roles | 9 |
-
-### Analysis Areas
-
+**Analysis Areas**
 - Employee attrition
-- Department analysis
-- Job-role analysis
-- Salary analysis
+- Salary & compensation
 - Job satisfaction
-- Employee performance
+- Performance
 - Overtime
 - Tenure
 - Workforce trends
 
-**Tools:** Power BI • DAX • Power Query
-
-🔗 **Repository:**  
-https://github.com/wahidshohel/hr-analytics-dashboard-power-bi
+🔗 **[View Repository →](https://github.com/wahidshohel/hr-analytics-dashboard-power-bi)**
 
 ---
 
-## 03. SQL Sales Dashboard Analytics
+### 03 · SQL Sales Dashboard Analytics
+**SQL · MySQL**
 
-SQL-based sales analysis project focused on extracting business insights from transactional and relational sales data.
+A SQL-based sales analytics project designed to extract business insights from transactional and relational data.
 
-### SQL Techniques
+**Analysis Includes**
+
+`Sales` · `Customers` · `Products` · `Regions` · `Categories` · `Revenue`
+
+**SQL Techniques**
 
 ```text
 SELECT
 WHERE
 ORDER BY
 GROUP BY
-JOINs
+JOIN
 Aggregate Functions
 Subqueries
