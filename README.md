@@ -94,3 +94,81 @@ GROUP BY
 JOIN
 Aggregate Functions
 Subqueries
+
+# Technical Skills
+
+| Category | Skills |
+|---|---|
+| Business Intelligence | Power BI |
+| Query Language | SQL / MySQL |
+| Data Analysis | Excel, Power BI, SQL |
+| Visualization | Power BI, Data Visualization |
+| Analytics | DAX, KPI Development |
+| Data Transformation | Power Query |
+| Reporting | Business Reporting, Dashboard Development |
+
+---
+
+# Education
+
+### B.Sc. in Physics
+**National University**  
+2023 – Present
+
+### Higher Secondary Certificate — Science
+**Dawood Public School and College**  
+2019 – 2020  
+GPA: **5.00**
+
+### Dakhil — Science
+**Dhap Shatgara Model Kamil Madrasah**  
+2017 – 2018  
+GPA: **5.00**
+
+---
+
+# Portfolio
+
+🌐 **Live Portfolio**
+
+https://wahidshohel.github.io/
+
+The portfolio website contains my:
+
+- Professional profile
+- Technical skills
+- Featured projects
+- Project repositories
+- Education
+- Contact information
+
+---
+
+# Contact
+
+**Md. Wahiduzzaman**
+
+📧 **Email:**  
+whidshohel70@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/md-wahiduzzaman-83b50042a
+
+🐙 **GitHub:**  
+https://github.com/wahidshohel
+
+🌐 **Portfolio:**  
+https://wahidshohel.github.io/
+
+📱 **Phone:**  
++8801646158394
+
+---
+
+<p align="center">
+  <strong>Data Analysis • Business Intelligence • Data Visualization</strong>
+</p>
+
+<p align="center">
+  © Md. Wahiduzzaman
+</p>
