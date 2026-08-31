@@ -1,4 +1,4 @@
-# Md. Wahiduzzaman
+# Md. Wahiduzzaman — Data Analyst Portfolio
 
 ### Data Analyst · Power BI · SQL · Excel · DAX
 
@@ -16,84 +16,135 @@
 
 ---
 
-## Turning Data Into Business Insights
+## About Me
 
-I am a **Data Analyst** focused on transforming raw data into structured analysis, interactive dashboards, meaningful KPIs, and actionable business insights.
+I am a Data Analyst focused on transforming raw and structured datasets into meaningful insights through data analysis, visualization, and business intelligence.
 
-My analytical toolkit includes **Power BI, SQL, Microsoft Excel, DAX, Power Query, and Power Pivot**, with practical project experience across **E-Commerce, HR Analytics, Sales, Customer Analysis, and Business Reporting**.
+My work focuses on building interactive dashboards, developing analytical queries, creating KPI-driven reports, and identifying trends that support data-driven decision-making.
 
----
+### Core Expertise
 
-## ⚡ What I Work With
-
-| | |
-|---|---|
-| 📊 **Business Intelligence** | Power BI · DAX · Power Query |
-| 🗄️ **Data & SQL** | SQL · MySQL · Data Querying |
-| 📈 **Data Analysis** | Excel · KPI Analysis · Trend Analysis |
-| 🎯 **Visualization** | Interactive Dashboards · Business Reporting |
-| 🧹 **Data Preparation** | Data Cleaning · Transformation · Data Modeling |
-
----
-
-# 📊 Featured Projects
-
-### 01 · E-Commerce Sales Analysis
-**Power BI · DAX · Power Query**
-
-An interactive sales analytics dashboard built to evaluate customer activity, revenue performance, sales trends, and category performance.
-
-**40K Customers** · **250K Orders** · **312K Units** · **5.93B Revenue**
-
-**Key Insights**
-- **0.71B** — Peak revenue in June
-- **83K units** — Electronics category performance
-- **23.72K** — Average Order Value
-- **4.14%** — Sales Growth
-
-🔗 **[View Repository →](https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi)**
+- Power BI Dashboard Development
+- SQL Data Analysis
+- DAX Measures & KPIs
+- Power Query & Data Transformation
+- Data Visualization
+- Business Intelligence
+- Sales & Customer Analytics
+- HR Analytics
+- Business Reporting
 
 ---
 
-### 02 · HR Analytics Dashboard
-**Power BI · DAX · Power Query**
+# Featured Projects
 
-An interactive HR dashboard focused on workforce structure, employee attrition, compensation, performance, job satisfaction, overtime, and tenure.
+## 01. E-Commerce Sales Analysis — Power BI
 
-**1,470 Employees** · **237 Attrition Cases** · **9 Job Roles**
+Interactive Power BI dashboard developed to analyze large-scale e-commerce sales and customer data.
 
-**Analysis Areas**
-- Employee attrition
-- Salary & compensation
+### Key Metrics
+
+| Metric | Value |
+|---|---:|
+| Customers | 40K |
+| Orders | 250K |
+| Units Sold | 312K |
+| Total Revenue | 5.93B |
+| Average Order Value | 23.72K |
+| Sales Growth | 4.14% |
+
+### Key Analysis
+
+- Monthly revenue and sales trends
+- Customer activity and performance
+- Category-level performance
+- Order analysis
+- KPI monitoring
+- Top-performing business segments
+
+### Key Insights
+
+- June was the peak revenue month with approximately **0.71B** revenue.
+- Electronics was the leading category with approximately **83K units sold**.
+- DAX-driven KPIs were developed to measure sales performance and growth.
+
+**Tools:** Power BI, DAX, Power Query
+
+🔗 **Project Repository:**  
+https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi
+
+---
+
+## 02. HR Analytics Dashboard — Power BI
+
+Interactive HR analytics dashboard designed to analyze workforce structure, employee performance, attrition, compensation, and job-related metrics.
+
+### Key Metrics
+
+| Metric | Value |
+|---|---:|
+| Employees | 1,470 |
+| Attrition | 237 |
+| Job Roles | 9 |
+
+### Key Analysis
+
+- Employee attrition analysis
+- Department and job-role analysis
+- Salary and compensation analysis
 - Job satisfaction
-- Performance
-- Overtime
-- Tenure
+- Employee performance
+- Overtime analysis
+- Employee tenure
 - Workforce trends
 
-🔗 **[View Repository →](https://github.com/wahidshohel/hr-analytics-dashboard-power-bi)**
+### Objective
+
+The dashboard transforms employee-level data into interactive HR insights, helping identify workforce patterns and key factors associated with employee attrition.
+
+**Tools:** Power BI, DAX, Power Query
+
+🔗 **Project Repository:**  
+https://github.com/wahidshohel/hr-analytics-dashboard-power-bi
 
 ---
 
-### 03 · SQL Sales Dashboard Analytics
-**SQL · MySQL**
+## 03. SQL Sales Dashboard Analytics
 
-A SQL-based sales analytics project designed to extract business insights from transactional and relational data.
+SQL-based sales analysis project focused on extracting business insights from transactional and relational datasets.
 
-**Analysis Includes**
+### SQL Techniques
 
-`Sales` · `Customers` · `Products` · `Regions` · `Categories` · `Revenue`
+- `SELECT`
+- `WHERE`
+- `ORDER BY`
+- Aggregate Functions
+- `GROUP BY`
+- `JOIN`
+- Data Filtering
+- Business KPI Calculations
 
-**SQL Techniques**
+### Key Analysis
 
-```text
-SELECT
-WHERE
-ORDER BY
-GROUP BY
-JOIN
-Aggregate Functions
-Subqueries
+- Total sales performance
+- Order analysis
+- Customer analysis
+- Product-level performance
+- Regional sales performance
+- Category performance
+- Top-selling products
+- Revenue analysis
+
+### Objective
+
+Developed analytical SQL queries to transform raw transactional data into structured business information for reporting and decision-making.
+
+**Tools:** SQL, MySQL
+
+🔗 **Project Repository:**  
+https://github.com/wahidshohel/sql-sales-dashboard-analytics
+
+---
 
 # Technical Skills
 
@@ -131,7 +182,7 @@ GPA: **5.00**
 
 🌐 **Live Portfolio**
 
-https://wahidshohel.github.io/
+[https://wahidshohel.github.io/](https://wahidshohel.github.io/Md.wahiduzzaman-Portfolio/)
 
 The portfolio website contains my:
 
@@ -158,7 +209,7 @@ https://www.linkedin.com/in/md-wahiduzzaman-83b50042a
 https://github.com/wahidshohel
 
 🌐 **Portfolio:**  
-https://wahidshohel.github.io/
+[https://wahidshohel.github.io/](https://wahidshohel.github.io/Md.wahiduzzaman-Portfolio/)
 
 📱 **Phone:**  
 +8801646158394
