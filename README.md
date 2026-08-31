@@ -1,128 +1,225 @@
 # Md. Wahiduzzaman — Data Analyst Portfolio
 
-Welcome to my personal data analytics portfolio.
+<p align="center">
+  <strong>Data Analyst | Power BI | SQL | DAX | Excel | Data Visualization</strong>
+</p>
 
-I am a Data Analyst focused on transforming raw data into meaningful insights through **Power BI, SQL, Excel, DAX, and Power Query**.
+<p align="center">
+  Turning raw data into meaningful insights and business-focused dashboards.
+</p>
 
-This repository contains my portfolio website, projects, dashboards, and professional information.
+<p align="center">
+  <a href="https://wahidshohel.github.io/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/md-wahiduzzaman-83b50042a">LinkedIn</a> •
+  <a href="https://github.com/wahidshohel">GitHub</a>
+</p>
 
 ---
 
-## 🌐 Live Portfolio
+## About Me
 
-👉 **View My Portfolio:**  
-https://wahidshohel.github.io/
+I am a Data Analyst focused on transforming raw and structured datasets into meaningful insights through data analysis, visualization, and business intelligence.
 
----
+My work focuses on building interactive dashboards, developing analytical queries, creating KPI-driven reports, and identifying trends that support data-driven decision-making.
 
-## 👨‍💻 About Me
+### Core Expertise
 
-I specialize in data analysis, business intelligence, dashboard development, and data-driven reporting.
-
-My work focuses on transforming complex datasets into clear and actionable insights using modern analytics tools.
-
-### Core Skills
-
-- Power BI
-- SQL
-- Microsoft Excel
-- DAX
-- Power Query
-- Data Cleaning
+- Power BI Dashboard Development
+- SQL Data Analysis
+- DAX Measures & KPIs
+- Power Query & Data Transformation
 - Data Visualization
 - Business Intelligence
-- KPI Development
-- Dashboard Design
+- Sales & Customer Analytics
+- HR Analytics
 - Business Reporting
 
 ---
 
-## 📊 Featured Projects
+# Featured Projects
 
-### 1. E-Commerce Sales Analysis — Power BI
+## 01. E-Commerce Sales Analysis — Power BI
 
-Interactive Power BI dashboard analyzing:
+Interactive Power BI dashboard developed to analyze large-scale e-commerce sales and customer data.
 
-- **40K** customers
-- **250K** orders
-- **312K** units sold
-- **$5.93B** total revenue
-- **23.72K** average order value
-- **4.14%** sales growth
+### Key Metrics
 
-Key insights include monthly revenue trends, category performance, customer activity, and sales dynamics.
+| Metric | Value |
+|---|---:|
+| Customers | 40K |
+| Orders | 250K |
+| Units Sold | 312K |
+| Total Revenue | 5.93B |
+| Average Order Value | 23.72K |
+| Sales Growth | 4.14% |
 
-**Highlights:**
-- June generated the highest monthly revenue at **$0.71B**
-- Electronics was the leading category with **83K units sold**
-- Built interactive KPIs using DAX
-- Used Power Query for data transformation
+### Key Analysis
 
-🔗 **GitHub:**  
+- Monthly revenue and sales trends
+- Customer activity and performance
+- Category-level performance
+- Order analysis
+- KPI monitoring
+- Top-performing business segments
+
+### Key Insights
+
+- June was the peak revenue month with approximately **0.71B** revenue.
+- Electronics was the leading category with approximately **83K units sold**.
+- DAX-driven KPIs were developed to measure sales performance and growth.
+
+**Tools:** Power BI, DAX, Power Query
+
+🔗 **Project Repository:**  
 https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi
 
 ---
 
-### 2. Sales & Customer Analysis Dashboard — Power BI
+## 02. HR Analytics Dashboard — Power BI
 
-Developed an interactive Power BI report for analyzing customer and sales performance.
+Interactive HR analytics dashboard designed to analyze workforce structure, employee performance, attrition, compensation, and job-related metrics.
 
-**Key areas:**
+### Key Metrics
 
-- Top customer analysis
-- Monthly revenue trends
-- Order status
-- Sales KPIs
-- Customer activity
-- Category performance
+| Metric | Value |
+|---|---:|
+| Employees | 1,470 |
+| Attrition | 237 |
+| Job Roles | 9 |
+
+### Key Analysis
+
+- Employee attrition analysis
+- Department and job-role analysis
+- Salary and compensation analysis
+- Job satisfaction
+- Employee performance
+- Overtime analysis
+- Employee tenure
+- Workforce trends
+
+### Objective
+
+The dashboard transforms employee-level data into interactive HR insights, helping identify workforce patterns and key factors associated with employee attrition.
 
 **Tools:** Power BI, DAX, Power Query
 
+🔗 **Project Repository:**  
+https://github.com/wahidshohel/hr-analytics-dashboard-power-bi
+
 ---
 
-### 3. Sales Data Analysis & Business Reporting — SQL
+## 03. SQL Sales Dashboard Analytics
 
-Developed SQL-based analysis for sales transactions, customers, products, regions, and revenue performance.
+SQL-based sales analysis project focused on extracting business insights from transactional and relational datasets.
 
-**Key analysis:**
+### SQL Techniques
 
-- Total sales
-- Order volume
-- Regional performance
-- Product-level sales
+- `SELECT`
+- `WHERE`
+- `ORDER BY`
+- Aggregate Functions
+- `GROUP BY`
+- `JOIN`
+- Data Filtering
+- Business KPI Calculations
+
+### Key Analysis
+
+- Total sales performance
+- Order analysis
+- Customer analysis
+- Product-level performance
+- Regional sales performance
 - Category performance
 - Top-selling products
+- Revenue analysis
 
-**Technologies:** SQL, Aggregate Functions, GROUP BY, JOINs, ORDER BY
+### Objective
 
----
+Developed analytical SQL queries to transform raw transactional data into structured business information for reporting and decision-making.
 
-### 4. Sales & Distribution Analysis — Excel
+**Tools:** SQL, MySQL
 
-Analyzed **14K+ sales and delivery records** covering:
-
-- 80 dealers
-- 187 sales representatives
-- 6.4K outlets
-- 26 territories
-- 10 categories
-- 32 brands
-- 136 products
-
-Compared **9.96M order value** against **9.36M delivered value** and analyzed **136K+ ordered units** versus **119K+ delivered units**.
-
-**Tools:** Microsoft Excel, PivotTables, Data Analysis
+🔗 **Project Repository:**  
+https://github.com/wahidshohel/sql-sales-dashboard-analytics
 
 ---
 
-## 🛠️ Technologies
+# Technical Skills
 
-| Technology | Usage |
+| Category | Skills |
 |---|---|
-| Power BI | Dashboard & Business Intelligence |
-| SQL | Data Analysis & Querying |
-| Excel | Reporting & Data Analysis |
-| DAX | Analytical Calculations |
-| Power Query | Data Transformation |
+| Business Intelligence | Power BI |
+| Query Language | SQL / MySQL |
+| Data Analysis | Excel, Power BI, SQL |
+| Visualization | Power BI, Data Visualization |
+| Analytics | DAX, KPI Development |
+| Data Transformation | Power Query |
+| Reporting | Business Reporting, Dashboard Development |
 
+---
 
+# Education
+
+### B.Sc. in Physics
+**National University**  
+2023 – Present
+
+### Higher Secondary Certificate — Science
+**Dawood Public School and College**  
+2019 – 2020  
+GPA: **5.00**
+
+### Dakhil — Science
+**Dhap Shatgara Model Kamil Madrasah**  
+2017 – 2018  
+GPA: **5.00**
+
+---
+
+# Portfolio
+
+🌐 **Live Portfolio**
+
+https://wahidshohel.github.io/
+
+The portfolio website contains my:
+
+- Professional profile
+- Technical skills
+- Featured projects
+- Project repositories
+- Education
+- Contact information
+
+---
+
+# Contact
+
+**Md. Wahiduzzaman**
+
+📧 **Email:**  
+whidshohel70@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/md-wahiduzzaman-83b50042a
+
+🐙 **GitHub:**  
+https://github.com/wahidshohel
+
+🌐 **Portfolio:**  
+https://wahidshohel.github.io/
+
+📱 **Phone:**  
++8801646158394
+
+---
+
+<p align="center">
+  <strong>Data Analysis • Business Intelligence • Data Visualization</strong>
+</p>
+
+<p align="center">
+  © Md. Wahiduzzaman
+</p>
