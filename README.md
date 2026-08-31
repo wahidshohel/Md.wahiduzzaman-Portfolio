@@ -124,26 +124,5 @@ Compared **9.96M order value** against **9.36M delivered value** and analyzed **
 | Excel | Reporting & Data Analysis |
 | DAX | Analytical Calculations |
 | Power Query | Data Transformation |
-| HTML | Portfolio Development |
-| CSS | Portfolio Design |
-| JavaScript | Portfolio Interactivity |
 
----
 
-## 📁 Repository Structure
-
-```text
-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── images/
-│   ├── ecommerce-dashboard.png
-│   ├── sales-dashboard.png
-│   ├── hr-dashboard.png
-│   └── excel-dashboard.png
-│
-└── assets/
-    └── Md-Wahiduzzaman-CV.pdf
