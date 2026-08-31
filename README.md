@@ -1,42 +1,60 @@
-# Md. Wahiduzzaman — Data Analyst Portfolio
+# Md. Wahiduzzaman
+
+### Data Analyst | Power BI | SQL | Excel | DAX | Business Intelligence
 
 <p align="center">
-  <strong>Data Analyst | Power BI | SQL | DAX | Excel | Data Visualization</strong>
-</p>
-
-<p align="center">
-  Turning raw data into meaningful insights and business-focused dashboards.
-</p>
-
-<p align="center">
-  <a href="https://wahidshohel.github.io/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/md-wahiduzzaman-83b50042a">LinkedIn</a> •
-  <a href="https://github.com/wahidshohel">GitHub</a>
+  <b>Turning Data Into Actionable Insights</b>
 </p>
 
 ---
 
-## About Me
+## 🌐 Portfolio
 
-I am a Data Analyst focused on transforming raw and structured datasets into meaningful insights through data analysis, visualization, and business intelligence.
+**Live Portfolio:**  
+https://wahidshohel.github.io/Md.wahiduzzaman-Portfolio/
 
-My work focuses on building interactive dashboards, developing analytical queries, creating KPI-driven reports, and identifying trends that support data-driven decision-making.
+---
 
-### Core Expertise
+## 👋 About Me
 
-- Power BI Dashboard Development
-- SQL Data Analysis
-- DAX Measures & KPIs
-- Power Query & Data Transformation
+I am a Data Analyst specializing in **Power BI, SQL, Microsoft Excel, DAX, Power Query, and Business Intelligence**.
+
+I focus on transforming raw datasets into structured analysis, interactive dashboards, meaningful KPIs, and data-driven business insights.
+
+My analytical work covers **sales analytics, customer analysis, HR analytics, revenue performance, KPI reporting, data transformation, and business reporting**.
+
+---
+
+## 🛠️ Technical Skills
+
+### Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- KPI Development
+- Interactive Dashboards
+
+### Data Analysis
+- SQL
+- Microsoft Excel
+- Data Cleaning
+- Data Transformation
 - Data Visualization
-- Business Intelligence
-- Sales & Customer Analytics
-- HR Analytics
 - Business Reporting
 
+### SQL
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- JOINs
+- Aggregate Functions
+- Subqueries
+
 ---
 
-# Featured Projects
+# 📊 Featured Projects
 
 ## 01. E-Commerce Sales Analysis — Power BI
 
@@ -53,173 +71,63 @@ Interactive Power BI dashboard developed to analyze large-scale e-commerce sales
 | Average Order Value | 23.72K |
 | Sales Growth | 4.14% |
 
-### Key Analysis
-
-- Monthly revenue and sales trends
-- Customer activity and performance
-- Category-level performance
-- Order analysis
-- KPI monitoring
-- Top-performing business segments
-
 ### Key Insights
 
-- June was the peak revenue month with approximately **0.71B** revenue.
-- Electronics was the leading category with approximately **83K units sold**.
-- DAX-driven KPIs were developed to measure sales performance and growth.
+- June was the peak revenue month with **0.71B** revenue.
+- Electronics was the leading category with **83K units sold**.
+- Developed DAX-driven KPIs for sales performance and growth analysis.
+- Analyzed customer activity, category performance, monthly revenue trends, and sales dynamics.
 
-**Tools:** Power BI, DAX, Power Query
+**Tools:** Power BI • DAX • Power Query
 
-🔗 **Project Repository:**  
+🔗 **Repository:**  
 https://github.com/wahidshohel/ecommerce-sales-analysis-powerbi
 
 ---
 
 ## 02. HR Analytics Dashboard — Power BI
 
-Interactive HR analytics dashboard designed to analyze workforce structure, employee performance, attrition, compensation, and job-related metrics.
+Interactive HR analytics dashboard focused on workforce structure, employee performance, attrition, salary, and job-related analysis.
 
 ### Key Metrics
 
 | Metric | Value |
 |---|---:|
 | Employees | 1,470 |
-| Attrition | 237 |
+| Attrition Cases | 237 |
+| Departments | 3 |
 | Job Roles | 9 |
 
-### Key Analysis
+### Analysis Areas
 
-- Employee attrition analysis
-- Department and job-role analysis
-- Salary and compensation analysis
+- Employee attrition
+- Department analysis
+- Job-role analysis
+- Salary analysis
 - Job satisfaction
 - Employee performance
-- Overtime analysis
-- Employee tenure
+- Overtime
+- Tenure
 - Workforce trends
 
-### Objective
+**Tools:** Power BI • DAX • Power Query
 
-The dashboard transforms employee-level data into interactive HR insights, helping identify workforce patterns and key factors associated with employee attrition.
-
-**Tools:** Power BI, DAX, Power Query
-
-🔗 **Project Repository:**  
+🔗 **Repository:**  
 https://github.com/wahidshohel/hr-analytics-dashboard-power-bi
 
 ---
 
 ## 03. SQL Sales Dashboard Analytics
 
-SQL-based sales analysis project focused on extracting business insights from transactional and relational datasets.
+SQL-based sales analysis project focused on extracting business insights from transactional and relational sales data.
 
 ### SQL Techniques
 
-- `SELECT`
-- `WHERE`
-- `ORDER BY`
-- Aggregate Functions
-- `GROUP BY`
-- `JOIN`
-- Data Filtering
-- Business KPI Calculations
-
-### Key Analysis
-
-- Total sales performance
-- Order analysis
-- Customer analysis
-- Product-level performance
-- Regional sales performance
-- Category performance
-- Top-selling products
-- Revenue analysis
-
-### Objective
-
-Developed analytical SQL queries to transform raw transactional data into structured business information for reporting and decision-making.
-
-**Tools:** SQL, MySQL
-
-🔗 **Project Repository:**  
-https://github.com/wahidshohel/sql-sales-dashboard-analytics
-
----
-
-# Technical Skills
-
-| Category | Skills |
-|---|---|
-| Business Intelligence | Power BI |
-| Query Language | SQL / MySQL |
-| Data Analysis | Excel, Power BI, SQL |
-| Visualization | Power BI, Data Visualization |
-| Analytics | DAX, KPI Development |
-| Data Transformation | Power Query |
-| Reporting | Business Reporting, Dashboard Development |
-
----
-
-# Education
-
-### B.Sc. in Physics
-**National University**  
-2023 – Present
-
-### Higher Secondary Certificate — Science
-**Dawood Public School and College**  
-2019 – 2020  
-GPA: **5.00**
-
-### Dakhil — Science
-**Dhap Shatgara Model Kamil Madrasah**  
-2017 – 2018  
-GPA: **5.00**
-
----
-
-# Portfolio
-
-🌐 **Live Portfolio**
-
-https://wahidshohel.github.io/
-
-The portfolio website contains my:
-
-- Professional profile
-- Technical skills
-- Featured projects
-- Project repositories
-- Education
-- Contact information
-
----
-
-# Contact
-
-**Md. Wahiduzzaman**
-
-📧 **Email:**  
-whidshohel70@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/md-wahiduzzaman-83b50042a
-
-🐙 **GitHub:**  
-https://github.com/wahidshohel
-
-🌐 **Portfolio:**  
-https://wahidshohel.github.io/
-
-📱 **Phone:**  
-+8801646158394
-
----
-
-<p align="center">
-  <strong>Data Analysis • Business Intelligence • Data Visualization</strong>
-</p>
-
-<p align="center">
-  © Md. Wahiduzzaman
-</p>
+```text
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+JOINs
+Aggregate Functions
+Subqueries
